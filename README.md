@@ -22,7 +22,7 @@ property | description
 msg | String (Not Null)(required)
 context | BuildContext (Not Null)(required)
 duration| DismissibleToastConstants.lengthShort or DismissibleToastConstants.lengthLong (optional)
-gravity | DismissibleToastConstants.top (or) DismissibleToastConstants.center (or) Toast.bottom
+gravity | DismissibleToastConstants.top (or) DismissibleToastConstants.center (or) DismissibleToast.bottom
 textStyle | TextStyle (default fontSize:15, color: Colors.white)
 backgroundColor | Color (default Color(0xAA000000))
 backgroundRadius | double （default 16)
