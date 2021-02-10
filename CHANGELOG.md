@@ -1,3 +1,3 @@
-## [0.0.1] - initial
+## [0.0.2] - initial
 
 create dismissible toast plugin

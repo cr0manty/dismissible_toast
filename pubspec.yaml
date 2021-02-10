@@ -1,6 +1,6 @@
 name: dismissible_toast
 description:  A Flutter Dismissible Toast plugin.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/cr0manty/dismissible_toast.git
 
 environment:
